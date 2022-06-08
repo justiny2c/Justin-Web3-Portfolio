@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Inconsolata&display=swap');
+/* font-family: 'Bowlby One SC', cursive; */
+
 .App {
   text-align: center;
+  font-family: 'Inconsolata', monospace;
 }
 
 .App-logo {

@@ -8,9 +8,9 @@ function Navbar() {
     <div>
         <nav className='navbar'>
             <div className='nav-bar-container'>
-                {/* <Link to="/" className="navbar-logo"> */}
+                <Link to="/" className="navbar-logo">
                    <h1>JUSTIN</h1>
-                {/* </Link> */}
+                </Link>
             </div>
         </nav>
     </div>
